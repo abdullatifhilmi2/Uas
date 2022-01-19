@@ -1,11 +1,6 @@
-## Kucing & Anjing Pedia | v 2
+Abdul Latif Hilmi
+ 180201001
 
-Contoh aplikasi android sederhana dengan 2 activity yang mendemonstrasikan:
-* Cara mengirim informasi dari satu activity ke activity lainnya melalui extra pada Intent, 
-* Penggunaan kode yang lebih efisien dari contoh sebelumnya dengan menggunakan inheritance pada model
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/98028094/150138692-a36e5c0e-5ffa-4884-a24f-eeb2da17bd3a.gif)
 
-Merupakan kelanjutan dari contoh sebelumnya di [Kucing & Anjing Pedia](https://github.com/ewinsutriandi/kucing-anjing-pedia)
-
-![Kucing & Anjing Pedia](catdogpedia.gif)
-
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/98028094/150138705-d2b8e954-a613-4da3-ad3f-83787695b0b3.gif)
