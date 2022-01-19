@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Burung, Ular &amp; Buaya Pedia</string>
+    <string name="kucing_anjing_monyet_pedia">Burung Ular dan Buaya Pedia</string>
+    <string name="tentang">Tentang</string>
+    <string name="notifikasi">(Tekan gambar untuk membuka galeri)</string>
+    <string name="kucing">Ras Burung</string>
+    <string name="anjing">Ras Ular</string>
+    <string name="monyet">Ras Buaya</string>
+    <string name="kucing_list_title">Daftar Ras Burung</string>
+    <string name="anjing_list_title">Daftar Ras Ular</string>
+    <string name="monyet_list_title">Daftar Ras Buaya</string>
+
+    <string name="jenis_hewan">Jenis Hewan</string>
+    <string name="asal">Asal</string>
+    <string name="deskripsi_hewan">Deskripsi hewan</string>
+
+
+    <string name="nama">NAMA</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="sistem_informasi">SISTEM INFORMASI</string>
+    <string name="semester">SEMESTER</string>
+
+    <!--    burung-->
+    <string name="Angora_nama">Jalak Bali</string>
+    <string name="Angora_asal">Bali</string>
+    <string name="Angora_deskripsi">Warna dasar dari tubuh burung ini merupakan putih dimana memiliki ujung sayap serta memiliki ekor dengan warna hitam.</string>
+    <string name="Bengal_nama">Jalak Suren</string>
+    <string name="Bengal_asal">Jawa, Bali, dan Sumatera</string>
+    <string name="Bengal_deskripsi">Burung jalak suren ini memiliki warna bulu yang sangat indah, dimana pada bagian dada dan juga paruhnya memiliki warna putih.</string>
+    <string name="Birmani_nama">Jalak Thailand</string>
+    <string name="Birmani_deskripsi">Jalak Thailand ini memiliki warna dasar coklat, sedangkan untuk bulu yang ada pada bagian dada serta kepala memiliki warna putih.</string>
+    <string name="Persia_nama">Burung Emu</string>
+    <string name="Persia_asal">Australia</string>
+    <string name="Persia_deskripsi">Burung tertinggi kedua di dunia setelah burung unta.</string>
+    <string name="Siam_nama">Burung Kiwi</string>
+    <string name="Siam_asal">Selandia Baru</string>
+    <string name="Siam_deskripsi">KUntuk ukuran dari burung kiwi ini hampir sama dengan seekor ayam domestik.</string>
+    <string name="Siberia_nama">Merak Hijua</string>
+    <string name="Siberia_asal">India, Malaysia, dan bangladesh</string>
+    <string name="Siberia_deskripsi">Ukuran dari merak jantan pun dapat mencapai sekitar 300 cm.</string>
+
+    <!--    ular-->
+    <string name="Bulldog_nama">Ular Serasah</string>
+    <string name="Bulldog_asal">Kalimantan</string>
+    <string name="Bulldog_deskripsi">Panjang tubuh semuanya umumnya sekitar 50 cm, namun ada pula yang sampai melebihi 60 cm.</string>
+    <string name="Husky_nama">Ular Pelangi</string>
+    <string name="Husky_asal">India</string>
+    <string name="Husky_deskripsi">Ular ini termasuk jenis ular berbisa dengan taring bisanya terletak di rahang atas bagian belakang.</string>
+    <string name="Kintamani_nama">Ular Kepala Dua</string>
+    <string name="Kintamani_asal">Dataran Rendah</string>
+    <string name="Kintamani_deskripsi">Tubuhnya gelap tetapi berwarna-warni, dengan pita-pita lebih ringan tidak jelas.</string>
+    <string name="Samoyed_nama">Sanca Kembang</string>
+    <string name="Samoyed_asal">Asia Tenggara</string>
+    <string name="Samoyed_deskripsi">Pada ukuran terbesarnya sedikit melebihi 10 meter, yang membuat ini ular terpanjang di dunia.</string>
+    <string name="Shepherd_nama">Kawat Biasa</string>
+    <string name="Shepherd_asal">Timur Tengah</string>
+    <string name="Shepherd_deskripsi">Salah satu ular terkecil di dunia, jarang melebihi 20 cm panjangnya.</string>
+    <string name="Shiba_nama">Ular Gadung</string>
+    <string name="Shiba_asal">India</string>
+    <string name="Shiba_deskripsi">Warna dewasa bervariasi dari cokelat muda hingga kuning kekuningan dan sering berwarna hijau neon.</string>
+
+    <!--    buaya-->
+    <string name="monyet_bekantan_nama">Irian</string>
+    <string name="monyet_bekantan_asal">Indonesia</string>
+    <string name="monyet_bekantan_deskripsi">Bentuk umum jenis ini mirip dengan buaya muara (C. porosus), tetapi lebih kecil dan warna kulitnya lebih gelap.</string>
+    <string name="monyet_owa_jawa_nama">Muara</string>
+    <string name="monyet_owa_jawa_asal">Indonesia</string>
+    <string name="monyet_owa_jawa_deskripsi">Buaya muara atau buaya bekatak (Crocodylus porosus) adalah jenis buaya terbesar di dunia.</string>
+    <string name="monyet_daun_natuna_nama">Sepit</string>
+    <string name="monyet_daun_natuna_asal">Indonesia</string>
+    <string name="monyet_daun_natuna_deskripsi">Ukuran tubuhnya lebih kecil dan pendek, dengan panjang maksimal hanya 3,5 meter.</string>
+    <string name="monyet_tarsisus_kecil_nama">siam</string>
+    <string name="monyet_tarsisus_kecil_asal">Siam</string>
+    <string name="monyet_tarsisus_kecil_deskripsi">Buaya ini relatif kecil ukurannya, dengan panjang total maksimal mencapai 4 m; akan tetapi yang umum panjang buaya ini hanya sekitar 2–3 m.</string>
+    <string name="Birmani_asal">Thailand</string>
+
+</resources>
